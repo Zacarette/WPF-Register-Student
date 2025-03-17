@@ -13,8 +13,8 @@ WPF Register Student is a simple desktop application developed using C# and WPF 
 - **App.xaml.cs:** Contains application-level logic (provided as part of the assignment).
 ## Installation Instructions
 1. **Clone the Repository in Git Bash:**  
-`git clone https://github.com/Zacarette/SNHU-IT-230.git`  
-`cd SNHU-IT-230`  
+`git clone https://github.com/Zacarette/WPF-Register-Student.git`  
+`cd WPF-Register-Student`  
 2. **Open the Solution in Visual Studio:**
 - Open the solution file (`WPFRegisterStudent.sln`) in Visual Studio.
 - Build and run the project using Visual Studio.
