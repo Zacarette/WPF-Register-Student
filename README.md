@@ -6,7 +6,7 @@ WPF Register Student is a simple desktop application developed using C# and WPF 
 - **Credit Hour Tracking:** Ensures that a user can only register for a maximum of 9 credit hours.
 - **Error Handling:** Displays error messages if a user tries to register for a course they are already registered for or exceed the maximum credit hour limit (9).
 - **Confirmation Messages:** Displays success messages when a course is successfully registered.
-4. **View Registered Courses:** Once a course is successfully registered, it will be added to the list below the registration button, and the total credit hours will be updated.
+- **View Registered Courses:** Once a course is successfully registered, it will be added to the list below the registration button, and the total credit hours will be updated.
 ## Files in the Project
 - **MainWindow.xaml.cs:** Handles the interaction logic for the main window, including course registration, error handling, and credit hour management.
 - **Course.cs:** Contains the `Course` class used to represent a course, its name, and its registration status.
